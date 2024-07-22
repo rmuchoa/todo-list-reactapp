@@ -1,0 +1,10 @@
+.form-todo {
+  padding: 1em;
+  margin: 0 2em;
+  border-bottom: 1px solid #2c3035;
+}
+
+.form-todo h2 {
+  text-align: center;
+  margin-top: 0;
+}
